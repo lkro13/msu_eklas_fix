@@ -46,3 +46,8 @@ this is the actual code in the inject.js file
     (document.head  ||  document.documentElement).appendChild(s);
 
 all this is just to inject the js into the page
+
+## Update
+
+I just tested it (23/1/2025) and it worked so yeah 
+yay
