@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         Eklas fix
-// @version      2025-05-20
-// @description  Eklas attendance fix
+// @name         Eklas attendance fix
+// @namespace    https://github.com/lkro13
+// @version      1.0
+// @description  Fix the issue where submitting attendace only result in a forever loading
 // @author       lkro13
 // @include      https://eklas.msu.edu.my/app/pl_att/sub_attx.php*
 // @icon         https://eklas.msu.edu.my/favicon.ico
 // @grant        none
+// @updateURL    https://github.com/lkro13/msu_eklas_fix/blob/c2d7f6c2143f2bb509d8fca918fbd4abba8b97b0/userscript.js
+// @downloadURL  https://github.com/lkro13/msu_eklas_fix/blob/c2d7f6c2143f2bb509d8fca918fbd4abba8b97b0/userscript.js
 // ==/UserScript==
 
 (function() {
