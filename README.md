@@ -38,6 +38,12 @@ Copy the following link
 
 and open tampermonkey dashboard > settings > install from url
 
+## Custom / unpack addon
+
+For browser **that** supports custom addons, download the entire repo and extract to a folder
+
+then (in chrome desktop at least) go to manage extention > developer mode on > load unpack
+
 ## how ?
 
 after looking at the console the problem is very easy to solve
