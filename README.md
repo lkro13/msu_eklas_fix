@@ -1,6 +1,11 @@
 # msu eklas fix
 fixing the stupid problem with eklas attendance 
 
+## Edit 21/05/2025
+Since edge on mobile support extensions now I have added a userscript version (see userscript section below)
+
+Also I do realize most people don't use firefox so a "app" might be coming soon
+
 ## why ?????
 it's getting annoying to have to refresh the page and resubmit it just to confirm it have submitted
 
@@ -8,7 +13,12 @@ it have annoyed me so much for it to become a add-on that fixed the problem
 
 ## Why firefox ?
 
-Well only firefox support add-on on mobile
+~Well only firefox support add-on on mobile~
+
+Firefox on mobile allows custom addons to be loaded
+
+_I have tried list it on mozilla addon page but got rejected lol_
+
 chrome and other browser doesn't have plus i only tested on firefox
 
 There is a signed add-on ready to install on the release page
@@ -17,6 +27,16 @@ to install you need to enable debug menu first by
 
 the three dotes > about firefox > tap the logo 5 times 
 and you will now have the option to install add on from file
+
+## Userscript
+
+You have to have extention such as tampermonkey installed
+
+Copy the following link
+
+    https://raw.githubusercontent.com/lkro13/msu_eklas_fix/refs/heads/main/userscript.js
+
+and open tampermonkey dashboard > settings > install from url
 
 ## how ?
 
