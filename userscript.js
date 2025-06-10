@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Eklas attendance fix
 // @namespace    https://github.com/lkro13
-// @version      1.0
+// @version      1.1
 // @description  Fix the issue where submitting attendace only result in a forever loading
 // @author       lkro13
 // @include      https://eklas.msu.edu.my/app/pl_att/sub_attx.php*
