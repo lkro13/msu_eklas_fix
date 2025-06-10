@@ -7,8 +7,8 @@
 // @match        https://eklas.msu.edu.my/app/mycampus/survey/keyin_run_survey_be_STUDENT.php*
 // @icon         https://eklas.msu.edu.my/favicon.ico
 // @grant        none
-// @updateURL    https://github.com/lkro13/msu_eklas_fix/blob/a8edd3da7f9e471c8a094c68e93ada8cc4955e9a/survey.js
-// @downloadURL  https://github.com/lkro13/msu_eklas_fix/blob/a8edd3da7f9e471c8a094c68e93ada8cc4955e9a/survey.js
+// @updateURL    https://raw.githubusercontent.com/lkro13/msu_eklas_fix/refs/heads/main/survey.js
+// @downloadURL  https://raw.githubusercontent.com/lkro13/msu_eklas_fix/refs/heads/main/survey.js
 // ==/UserScript==
 
 (function () {
