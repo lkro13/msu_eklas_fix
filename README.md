@@ -1,10 +1,15 @@
 # msu eklas fix
 fixing the stupid problem with eklas attendance 
 
+Look at [installation](#installation) for your specific browser
+
 ## Edit 21/05/2025
-Since edge on mobile support extensions now I have added a userscript version (see userscript section below)
+Since edge on mobile support extensions now I have added a userscript version (see [userscript section](#userscript) below)
 
 Also I do realize most people don't use firefox so a "app" might be coming soon
+
+## Edit 10/06/2025
+added a survey filler 
 
 ## why ?????
 it's getting annoying to have to refresh the page and resubmit it just to confirm it have submitted
@@ -20,6 +25,8 @@ Firefox on mobile allows custom addons to be loaded
 _I have tried list it on mozilla addon page but got rejected lol_
 
 chrome and other browser doesn't have plus i only tested on firefox
+
+# Installation
 
 There is a signed add-on ready to install on the release page
 
@@ -44,7 +51,7 @@ For browser **that** supports custom addons, download the entire repo and extrac
 
 then (in chrome desktop at least) go to manage extention > developer mode on > load unpack
 
-## how ?
+# how ?
 
 after looking at the console the problem is very easy to solve
 
