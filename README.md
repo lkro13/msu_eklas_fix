@@ -11,6 +11,12 @@ Also I do realize most people don't use firefox so a "app" might be coming soon
 ## Edit 10/06/2025
 added a survey filler 
 
+Note that it is only tested and made for course evaluation 
+
+install is the same as the userscript version but using the following link instead
+
+	https://raw.githubusercontent.com/lkro13/msu_eklas_fix/refs/heads/main/survey.js
+
 ## why ?????
 it's getting annoying to have to refresh the page and resubmit it just to confirm it have submitted
 
