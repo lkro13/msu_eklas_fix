@@ -7,8 +7,8 @@
 // @include      https://eklas.msu.edu.my/app/pl_att/sub_attx.php*
 // @icon         https://eklas.msu.edu.my/favicon.ico
 // @grant        none
-// @updateURL    https://github.com/lkro13/msu_eklas_fix/blob/c2d7f6c2143f2bb509d8fca918fbd4abba8b97b0/userscript.js
-// @downloadURL  https://github.com/lkro13/msu_eklas_fix/blob/c2d7f6c2143f2bb509d8fca918fbd4abba8b97b0/userscript.js
+// @updateURL    https://github.com/lkro13/msu_eklas_fix/raw/refs/heads/main/userscript.js
+// @downloadURL  https://github.com/lkro13/msu_eklas_fix/raw/refs/heads/main/userscript.js
 // ==/UserScript==
 
 (function() {
